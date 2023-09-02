@@ -1,0 +1,2 @@
+# scamming
+version checker
